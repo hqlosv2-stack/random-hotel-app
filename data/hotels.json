@@ -1,0 +1,92 @@
+[
+    {
+        "name": "オーシャンビューホテル",
+        "location": "沖縄",
+        "capacity": 1,
+        "price": 15000,
+        "lat": 26.212401,
+        "lng": 127.680932,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "森の隠れ家リゾート",
+        "location": "北海道",
+        "capacity": 3,
+        "price": 20000,
+        "lat": 43.06177,
+        "lng": 141.3538,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "都会のオアシスホテル",
+        "location": "東京",
+        "capacity": 1,
+        "price": 10000,
+        "lat": 35.6895,
+        "lng": 139.6917,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "古都の旅館",
+        "location": "京都",
+        "capacity": 4,
+        "price": 25000,
+        "lat": 35.0116,
+        "lng": 135.7681,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "星空ロッジ",
+        "location": "北海道",
+        "capacity": 2,
+        "price": 12000,
+        "lat": 43.7667,
+        "lng": 142.3667,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "富士見温泉旅館",
+        "location": "静岡",
+        "capacity": 2,
+        "price": 18000,
+        "lat": 35.1561,
+        "lng": 138.6508,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "横浜ベイサイドホテル",
+        "location": "神奈川",
+        "capacity": 3,
+        "price": 22000,
+        "lat": 35.4478,
+        "lng": 139.6415,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "歴史の宿",
+        "location": "京都",
+        "capacity": 2,
+        "price": 16000,
+        "lat": 34.9859,
+        "lng": 135.7587,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "札幌雪まつりホテル",
+        "location": "北海道",
+        "capacity": 4,
+        "price": 28000,
+        "lat": 43.0645,
+        "lng": 141.3468,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    },
+    {
+        "name": "南国ペンション",
+        "location": "沖縄",
+        "capacity": 2,
+        "price": 14000,
+        "lat": 26.5055,
+        "lng": 127.9621,
+        "image_url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihm7mWjLDYYE0A_FVekW9RnS10iwgYGCJ9bY0G9e9M_AyAh11CSlPDgnLGUDrwzs6jryahMA-zke4bQqPEZSwVMPPh-JU7h4mZbHC_w0V2ORkYlfUZgkl32UwjpfX1WWTiucViyt6tCrE/s800/building_hotel_small.png"
+    }
+]

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <title>結果</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <style>
+        .hotel-image {
+            width: 100%;
+            max-width: 300px;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        #map {
+            height: 400px;
+            width: 100%;
+            margin-top: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>選ばれたホテル</h1>
+        <img src="{{ hotel.image_url }}" alt="{{ hotel.name }}" class="hotel-image">
+        <p><strong>ホテル名:</strong> {{ hotel.name }}</p>
+        <p><strong>場所:</strong> {{ hotel.location }}</p>
+        <p><strong>料金:</strong> {{ hotel.price }} 円</p>
+        <p><strong>収容人数:</strong> {{ hotel.capacity }} 人</p>
+
+        <div id="map"></div>
+
+        <a href="/">もう一度検索する</a>
+    </div>
+
+    <script>
+      function initMap() {
+        const hotelLocation = { lat: {{ hotel.lat }}, lng: {{ hotel.lng }} };
+        const mapOptions = {
+          zoom: 15,
+          center: hotelLocation,
+        };
+        const map = new google.maps.Map(document.getElementById("map"), mapOptions);
+        const marker = new google.maps.Marker({
+          position: hotelLocation,
+          map: map,
+          title: "{{ hotel.name }}"
+        });
+      }
+    </script>
+    <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCiKH0Y20pOxIBbQXN9zqcBZtbDQgEA7cc
+
+&callback=initMap"></script>
+</body>
+</html>
